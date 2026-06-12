@@ -1,6 +1,6 @@
-# Bomb Party Master
+# OCR Lexical Automation
 
-Bomb Party Master is a Windows desktop application designed to assist Bomb Party gameplay by detecting on-screen syllables and suggesting valid French words.
+OCR Lexical Automation is a Windows desktop application designed to assist Bomb Party gameplay by detecting on-screen syllables and suggesting valid French words.
 
 The project focuses on OCR processing, word selection logic, and controlled user interaction.
 
